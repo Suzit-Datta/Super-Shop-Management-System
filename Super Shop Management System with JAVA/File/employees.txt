@@ -1,0 +1,4 @@
+1001;Suzit;50000.0;Male
+1002;Arnob;20000.0;Male
+1003;Nafi;60000.0;Male
+1004;Grontho;30000.0;Male
